@@ -11,6 +11,8 @@ public class ExercicioScanner {
         x = sc.next();
         System.out.println("Você digitou: "+ x);
         sc.close();
+
+
     }
 
 
