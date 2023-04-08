@@ -5,7 +5,7 @@ import exercises.entities.Funcionario;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class CalculoSario {
+public class CalculoSalario {
 
     public static void main(String[] args) {
 
